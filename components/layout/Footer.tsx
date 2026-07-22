@@ -117,7 +117,7 @@ export default function Footer() {
 
                 <div>
                   <p className="text-gray-400">
-                    +91 XXXXX XXXXX
+                    +91 9910395725,+91 8700635070
                   </p>
                 </div>
 
@@ -129,7 +129,7 @@ export default function Footer() {
 
                 <div>
                   <p className="text-gray-400">
-                    info@hitech.com
+                    Manoj@hightechengineeringsolutions.com, Abhishek@hitechengineeringsolutions.com
                   </p>
                 </div>
 
@@ -141,7 +141,7 @@ export default function Footer() {
 
                 <div>
                   <p className="text-gray-400">
-                    Your Office Address
+                    110017 South Delhi
                   </p>
                 </div>
 
