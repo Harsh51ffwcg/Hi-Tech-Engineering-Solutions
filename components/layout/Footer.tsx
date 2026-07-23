@@ -15,12 +15,12 @@ export default function Footer() {
             <div className="mb-6 flex items-center gap-4">
 
               <Image
-                src="/logo.jpeg"
-                alt="Hi Tech Engineering Solutions"
-                width={60}
-                height={60}
-                className="h-14 w-auto"
-              />
+  src="/images/company/logo.png"
+  alt="Hi Tech Engineering Solutions"
+  width={60}
+  height={60}
+  className="h-14 w-auto"
+/>
 
               <div>
                 <h3 className="text-xl font-bold">
