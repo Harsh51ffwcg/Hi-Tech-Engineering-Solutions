@@ -38,14 +38,14 @@ export default function Contact() {
             <div className="rounded-3xl bg-white/5 border border-white/10 p-6">
               <h3 className="text-xl font-semibold mb-2">📞 Phone</h3>
               <p className="text-gray-300">
-                +91 9910395725,+91 8700635070
+                +91 9910395725,+91 8700635070,+91 9370569442
               </p>
             </div>
 
             <div className="rounded-3xl bg-white/5 border border-white/10 p-6">
               <h3 className="text-xl font-semibold mb-2">📧 Email</h3>
               <p className="text-gray-300">
-                Manoj@hightechengineeringsolutions.com, Abhishek@hightechengineeringsolutions.com
+                manoj@hightechengineeringsolutions.com, abhishek@hightechengineeringsolutions.com, siddhanthitechsolutions@gmail.com
               </p>
             </div>
 
